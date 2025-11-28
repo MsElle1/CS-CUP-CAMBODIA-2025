@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "CS CUP Junior 2025",
-  description: "The premier programming competition for junior developers",
+  description: "The premier programming competition for university students.",
 };
 
 export default function RootLayout({
